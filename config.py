@@ -4,22 +4,22 @@ from RomeoBot.config.hell_config import Config
 
 class Development(Config):
   # get these values from my.telegram.org. 
-  APP_ID = 6    # 6 is a placeholder. Fill your 6 digit api id
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"   # replace this with your api hash
+  APP_ID = 15637856    # 6 is a placeholder. Fill your 6 digit api id
+  API_HASH = "521a26ceed82a85420d580989373d817"   # replace this with your api hash
 
   # create any PostgreSQL database.
   # I recommend to use elephantsql and paste that link here
-  DB_URI = "Your value"
+  DB_URI = "mongodb+srv://Oyehoye:1234@1234@cluster0.dtlrryp.mongodb.net/?retryWrites=true&w=majority"
 
   # After cloning the repo and installing requirements...
   # Do `python string.py` and fill the on screen prompts.
   # String session will be saved in your saved message of telegram.
   # Put that string here.
-  ROMEOBOT_SESSION = "Your value"
+  ROMEOBOT_SESSION = "1BVtsOHEBu7eBGFgaeiorJ11EJibe68jJBWcuF2EYm9lDA6NyPHSU7asDFdulpZQbwXIHnUTGmWGnVO3_W-2HDhpzP-guFcwu0jj3xGCaLDBYsPIowcz00eNhBvOlg5f9Vkn3Dj9r9NIMC61I-U3OsaYsrrXM3C_nsJ2_VfrtaB9zSdAOiUfnX891zUHfXcZylksb5Tk0MgyUoL6aVtoS_MHvXbf3w1p03vx5cPDoXD4_mbLXS665UStvU4iBhmHo81KI9WVIAmceJ5pQzpf_jt4v0IjRGhYXUEZWhfsANLrI_Vqdk_zLaySxmP0sbzk9SJZPdoGVHMtXSiBXfLRR8dX5HGlFY1k="
 
   # Create a bot in @BotFather
   # And fill the following values with bot token and username.
-  BOT_TOKEN = "Your value" #token
+  BOT_TOKEN = "5824879205:AAHLj_ub7Xy1zs2bKa-wNKLtNeL_9tjQxtU" #token
 
   # Custom Command Handler. 
   HANDLER = "."
