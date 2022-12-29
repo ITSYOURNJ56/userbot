@@ -9,7 +9,7 @@ class Development(Config):
 
   # create any PostgreSQL database.
   # I recommend to use elephantsql and paste that link here
-  DB_URI = "mongodb+srv://Oyehoye:1234@1234@cluster0.dtlrryp.mongodb.net/?retryWrites=true&w=majority"
+  DB_URI = "mongodb+srv://itmebro:itsnj@cluster1.685hnrh.mongodb.net/?retryWrites=true&w=majority"
 
   # After cloning the repo and installing requirements...
   # Do `python string.py` and fill the on screen prompts.
