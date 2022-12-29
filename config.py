@@ -19,7 +19,7 @@ class Development(Config):
 
   # Create a bot in @BotFather
   # And fill the following values with bot token and username.
-  BOT_TOKEN = "5824879205:AAHLj_ub7Xy1zs2bKa-wNKLtNeL_9tjQxtU" #token
+  BOT_TOKEN = "5824879205:AAEum45stp6RsQ1Pw272lvi7HrfDFc-IVt0" #token
 
   # Custom Command Handler. 
   HANDLER = "."
